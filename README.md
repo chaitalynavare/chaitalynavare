@@ -1,2 +1,0 @@
-# chaitalynavare
-My_Information
