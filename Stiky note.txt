@@ -1,0 +1,127 @@
+STICKY 1
+
+elastic - http://localhost:9200/
+kibana - http://localhost:5601
+echo %JAVA_HOME%
+C:\Program Files\Elastic\Elasticsearch\6.0.1
+bin\elasticsearch
+C:\Kibana 6.0\kibana-6.0.1-windows-x86_64\kibana-6.0.1-windows-x86_64
+bin\kibana
+C:\Logstash 5.1.1\logstash-5.1.1
+bin\logstash -f "C:\Users\513239\Desktop\Elasticsearch_Data\logstash.config"
+333933 arun emp id
+
+STICKY 2
+/opt/splunk/splunk/etc/system/local
+
+https://www.youtube.com/watch?v=nVt3Rst-2H8
+
+https://www.youtube.com/watch?v=gh0Ms3YRQzM
+
+https://inter.viewcentral.com/Events/cust/catalog.aspx?cid=splunk&pid=1
+
+https://app.pluralsight.com/player?course=linux-cli-fundamentals&author=andrew-mallett&name=linux-cli-fundamentals-m6&clip=3&mode=live
+
+Plural sight 
+ChaitalySubhash.Navare@cognizant.com - kalp
+
+FREE UNIX TERMINAL
+http://www.webminal.org/terminal/
+chaitalynavare kalpesh4007
+
+LINUX links
+https://www.guru99.com/unix-virtual-terminal.html
+http://www.freeos.com/guides/lsst/
+https://www.howtogeek.com/67469/the-beginners-guide-to-shell-scripting-the-basics/
+https://www.shellscript.sh/
+
+
+9401313234870007
+9401163738342908
+9401163001553702
+
+1860-258-5000/080-40146468
+membercare@payback.in
+
+SPLUNK
+http://dev.splunk.com/view/dev-guide/SP-CAAAE25
+https://www.splunk.com/blog/2016/04/25/creating-a-splunk-javascript-view.html
+http://dev.splunk.com/view/webframework-developapps/SP-CAAAEQA
+https://github.com/jamesdon/chargeback/blob/master/local/data/ui/views/charge_back.xml
+https://answers.splunk.com/answers/326649/can-i-change-panel-width-in-a-dashboard-using-simp-1.html
+
+https://docs.splunk.com/Documentation/Splunk/7.1.0/Knowledge/Managedatamodels
+https://answers.splunk.com/answers/524250/how-to-search-for-matches-in-two-different-searche.html
+
+ELK
+https://logz.io/blog/installing-the-elk-stack-on-windows/
+https://logz.io/blog/elastic-stack-windows/
+http://robwillis.info/2016/05/installing-elasticsearch-logstash-and-kibana-elk-on-windows-server-2012-r2/
+
+index=country_tree sourcetype=Order_Date |table Name City Date | eval TIME=strptime(Date,"%d-%m-%Y") | eval TIME1=strftime(TIME,"%m-%Y") |sort TIME1 |dedup TIME1 |eval NOW_TIME=relative_time(now(),"-d@d") |eval CONVERT_NOWTIME=strftime(NOW_TIME,"%m-%Y") |search TIME1 =  05-2018 |where TIME1 = CONVERT_NOWTIME
+
+
+
+
+ 			
+
+ To Do
+predit command
+1. rangemap
+2. drilldown
+3. business knowledge
+4. complex querries
+5. publid github push pull
+6. data model and pivot
+regular expr
+cluster env
+linux basics
+js css html
+
+AmexCoreTeamIndia@cognizant.co
+G8N0FH1G   
+https://www360.americanexpress.com/ATWORK/un/AFC/en_IN/saveChanges.do
+photo pending
+|inputlookup POOJA_Backup.csv |table * | eval TIME2= strftime(TIME,"%Y-%b-%dT%H:%M:%S.%p")
+|eval TIME=strftime(TIME,"%Y-%m-%dT%H:%M:%S.3N+%z")                   
+   
+
+9401163001553702
+                         
+
+
+
+
+
+Splunk tutorials
+Shell Scripting
+Status
+Devops tools (CI/CD pipeline)
+splunk trainings from e-learning
+
+wah points
+payback
+syncsort
+
+Pycharm
+chaitaly.subhashnavare@kohls.com
+
+Deployment apps
+Deployment server
+conf files
+SSL Setup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
